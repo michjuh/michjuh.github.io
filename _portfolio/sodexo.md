@@ -1,5 +1,6 @@
 ---
 layout: post
+category: portfolio-item
 title: Sodexo
 img: "assets/img/portfolio/sodexo.jpeg"
 date: 01 November 2015

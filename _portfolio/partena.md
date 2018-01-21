@@ -1,5 +1,6 @@
 ---
 layout: post
+category: portfolio-item
 title: Partena
 img: "assets/img/portfolio/partena.jpg"
 date: June 2016

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: portfolio-item
 title: Idewe
 img: "assets/img/portfolio/idewe.jpg"
 date: 01 October 2015

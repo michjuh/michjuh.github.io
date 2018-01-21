@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: "Method return value cache interceptor"
 tags: [code, c#, AOP, Autofac, .net]
 ---
