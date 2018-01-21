@@ -13,8 +13,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>A website with blog posts and pages</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Software Craftsmanship &amp; Software Gore <br>
+        Perfectionist &amp; careless <br>
+        &amp; Things In Between</p>
+  header_text_feature_image: assets/img/pexels/gespentisch-night.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
