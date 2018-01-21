@@ -100,5 +100,5 @@ It may be cool that you can reuse the same method in multiple scenarios. But thi
 Instead go for methods per kind of query:
 `invoiceCollection.GetAllForClient(clientReference);`  
 `invoiceCollection.GetAllInclusiveBetween(startDate, endDate);`
-
-
+  
+  &nbsp;
