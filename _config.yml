@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Software Craftsmanship &amp; Software Gore <br>
-        Perfectionist &amp; careless <br>
+     <p>Software Craftsmanship - Software Gore <br>
+        Perfectionist - careless <br>
         &amp; Things In Between</p>
   header_text_feature_image: assets/img/pexels/gespentisch-night.jpeg
   footer_text: >
