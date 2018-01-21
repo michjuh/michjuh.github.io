@@ -19,9 +19,13 @@
             position: relative;
             margin: 0 auto;
             max-width: 400px;
+            min-height: 400px;
+            box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+            // padding: $padding-xs-small;
+            padding: 10px;
 
             .caption {
-                margin: 0;
+                margin: -10px;
                 position: absolute;
                 width: 100%;
                 height: 100%;
