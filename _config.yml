@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://mich.vanmooter.be"
+url: "https://mich.vanmooter.be"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
