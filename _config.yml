@@ -5,7 +5,7 @@ url: "https://mich.vanmooter.be"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 
+  title: Mich
   avatar: assets/img/me.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
